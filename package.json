@@ -1,0 +1,17 @@
+{
+  "name": "playdate-types",
+  "version": "1.0.0",
+  "description": "Type declarations for Playdate API to use with typescript-to-lua",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ussaohelcim/playdate-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ussaohelcim/playdate-types/issues"
+  },
+  "homepage": "https://github.com/ussaohelcim/playdate-types#readme",
+  "types": "./index.d.ts"
+}
