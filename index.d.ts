@@ -747,7 +747,7 @@ declare namespace playdate {
       | typeof kColorWhite
       | typeof kColorClear
       | typeof kColorXOR;
-    export function pushcontext(image?: Image): void;
+    export function pushContext(image?: Image): void;
     export function popContext(): void;
     export function clear(color?: Color): void;
 
